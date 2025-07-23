@@ -11,8 +11,7 @@ parameters:
     level: 5
 
     ignoreErrors:
-        - '#Access to an undefined property#'
-        - identifier: missingType.iterableValue
+    
     excludePaths:
 
     treatPhpDocTypesAsCertain: false
